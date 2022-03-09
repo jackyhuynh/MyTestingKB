@@ -22,7 +22,7 @@ $ pip install locustio
 ```
 - Boiler of performance testing script may look like:
 ```python
-from locust import HttpLocust, TaskSet, task, between
+from locustio import HttpLocust, TaskSet, task, between
 
 class TestCases(TaskSet):
     def on_start(self):
