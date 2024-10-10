@@ -1,0 +1,3 @@
+[submodule "EthicalHacking"]
+	path = EthicalHacking
+	url = https://github.com/jackyhuynh/EthicalHacking.git
