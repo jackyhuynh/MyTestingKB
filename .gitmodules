@@ -4,6 +4,3 @@
 [submodule "PenTest"]
 	path = PenTest
 	url = https://github.com/jackyhuynh/PenTest.git
-[submodule "MyTestingKB"]
-	path = MyTestingKB
-	url = https://github.com/jackyhuynh/MyTestingKB.git
