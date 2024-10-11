@@ -4,3 +4,6 @@
 [submodule "ServerRegressionTest"]
 	path = ServerRegressionTest
 	url = https://github.com/jackyhuynh/ServerRegressionTest.git
+[submodule "PenTest"]
+	path = PenTest
+	url = https://github.com/jackyhuynh/PenTest.git
