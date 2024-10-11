@@ -1,6 +1,3 @@
-[submodule "EthicalHacking"]
-	path = EthicalHacking
-	url = https://github.com/jackyhuynh/EthicalHacking.git
 [submodule "ServerRegressionTest"]
 	path = ServerRegressionTest
 	url = https://github.com/jackyhuynh/ServerRegressionTest.git
