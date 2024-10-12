@@ -1,9 +1,12 @@
 [submodule "ServerRegressionTest"]
 	path = ServerRegressionTest
-	url = https://github.com/jackyhuynh/ServerRegressionTest.git
+	url = https://github.com/MyPython101/ServerRegressionTest.git
 [submodule "PenTest"]
 	path = PenTest
-	url = https://github.com/jackyhuynh/PenTest.git
+	url = https://github.com/MyPython101/PenTest.git
 [submodule "MutationTesting"]
 	path = MutationTesting
-	url = https://github.com/jackyhuynh/MutationTesting.git
+	url = https://github.com/MyPython/MutationTesting.git
+[submodule "PerformanceTesting"]
+	path = PerformanceTesting
+	url = https://github.com/MyPython101/PerformanceTesting.git
